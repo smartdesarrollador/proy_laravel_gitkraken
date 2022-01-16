@@ -24,3 +24,6 @@ Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
 Route::get('/prueba', function () {
     return view('welcome');
 });
+
+
+/* Comentario en archivo */
