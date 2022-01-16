@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>archivo</h1>
+    <h3>Error corregido</h3>
 </body>
 </html>
