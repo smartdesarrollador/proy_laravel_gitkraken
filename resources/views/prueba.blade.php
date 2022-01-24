@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>prueba livewire</h1>
+    <h1>prueba livewire - ultimos cambios</h1>
 </body>
 </html>
